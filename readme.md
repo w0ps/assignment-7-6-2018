@@ -1,4 +1,4 @@
-# tv show scraping assessment assignment###
+# tv show scraping assessment assignment
 
 Produced in a short duration of time for purpose of assessing programming skill
 
