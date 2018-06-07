@@ -1,0 +1,5 @@
+apiUrl: http://api.tvmaze.com/
+apiEntry: 'shows'
+rateWindow: 10000
+rateLimit: 20
+portNumber: 3000
